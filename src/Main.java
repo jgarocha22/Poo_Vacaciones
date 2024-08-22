@@ -1,4 +1,4 @@
-package ClasesYObjetos;
+import ClasesYObjetos.Operacion;
 
 public class Main {
 
