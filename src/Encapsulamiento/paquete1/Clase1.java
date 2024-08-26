@@ -4,19 +4,19 @@ public class Clase1 {
     private int age;
     private String name;
 
-    public void SetAge(int age) {
+    public void setAge(int age) {
         this.age = age;
     }
 
-    public void SetName(String name) {
+    public void setName(String name) {
         this.name = name;
     }
 
-    public int GetAge() {
+    public int getAge() {
         return age;
     }
 
-    public String GetName() {
+    public String getName() {
         return name;
     }
 }
